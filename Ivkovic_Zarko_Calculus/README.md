@@ -8,17 +8,12 @@
 Bash usually comes pre-installed in all linux distros</p>
 </li>
 <li><p>CMake Version 3.5+</p>
-<pre><code>
-</code></pre><h3 id="installation">Installation</h3>
+<pre>
 </li>
 </ul>
 <p>Below is an example how to set up everything.</p>
 <ol>
 <li>If you don't have CMake installed, you can install it on Ubuntu using the command:<pre><code class="lang-sh">sudo apt <span class="hljs-keyword">install</span> cmake
-</code></pre>
-</li>
-<li>If you are using other linux distributions, the information how to install cmake can be found online<pre><code class="lang-sh">
-</code></pre>
 </li>
 <li>Run this command <pre><code class="lang-js">./compile.sh
 </code></pre>
