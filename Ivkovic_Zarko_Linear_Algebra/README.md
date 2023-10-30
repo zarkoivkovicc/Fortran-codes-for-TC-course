@@ -1,24 +1,3 @@
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
-
 <!-- GETTING STARTED -->
 <h2 id="getting-started">Getting Started</h2>
 <p>This is my homework for the linear algebra part of TC course. This README file should help you set up the code, build all executables and execute them in one simple step.</p>
