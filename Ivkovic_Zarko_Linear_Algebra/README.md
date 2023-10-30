@@ -5,20 +5,12 @@
 <p>To run the script &quot;compile.sh&quot; you will need installed bash on your system and CMake program for building software from source files and managing dependencies. To compile the source code, GNU Fortran compiler is recommended, but other compilers should also work. In case the &quot;compile_and_run.sh script isn't working, you can always manually compile source files. To plot all the scripts you will need Pytyhon 3.5+ with numpy, matplotlib and energydiagram modules installed, and GNU Octave and GNU Plot programs. </p>
 <ul>
 <li><p>GNU Fortran</p>
-<pre><code>
-</code></pre>
 </li>
 <li><p>CMake Version 3.5+ (optional)</p>
-<pre><code>
-</code></pre>
 </li>
 <li><p>Python 3.5+ with numpy, matplotlib and energydiagram modules (optional)</p>
-<pre><code>
-</code></pre>
 </li>
 <li><p>GNU Octave and GNU Plot (optional)</p>
-<pre><code>
-</code></pre>
 </li>
 </ul>
 <p>Below is an example how to install everything on Linux Ubunutu. If you are using other linux distribution or MacOS, you can find the information online.</p>
